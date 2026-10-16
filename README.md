@@ -36,11 +36,11 @@ The Power BI dashboard also includes interactive slicers for Shift, Production L
 
 ## Power BI Dashboard
 
-![Power BI Manufacturing Quality Dashboard](screenshots/powerbi_quality_dashboard.png)
+![Power BI Manufacturing Quality Dashboard](screenshots/powerbi_quality_dashboard.PNG)
 
 ## Excel Dashboard
 
-![Excel Manufacturing Quality Dashboard](screenshots/excel_quality_dashboard.png)
+![Excel Manufacturing Quality Dashboard](screenshots/excel_quality_dashboard.PNG)
 
 ## Data Preparation and Analysis
 
